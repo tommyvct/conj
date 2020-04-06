@@ -1,0 +1,26 @@
+nprl1 hagaki
+nprl0 hagaki
+nprs1 hagaki
+nprs0 hagaki
+npal1 hagaki
+npal0 hagaki
+npas1 hagaki
+npas0 hagaki
+
+adprl1 kawaii
+adprl0 kawaii
+adprs1 kawaii
+adprs0 kawaii
+adpal1 kawaii
+adpal0 kawaii
+adpas1 kawaii
+adpas0 kawaii
+
+vprl1 nomu
+vprl0 nomu
+vprs1 nomu
+vprs0 nomu
+vpal1 nomu
+vpal0 nomu
+vpas1 nomu
+vpas0 nomu
