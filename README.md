@@ -5,6 +5,7 @@ Simple Japanese conjugation generator
 A minimum interactive shell is provided. Basic syntax is `command romaji`.
 
 ## Available Commands:
++ `help`
 + `te`: テform of given verb
 + compound commands:
     + `ad` for adjective

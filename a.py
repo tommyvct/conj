@@ -270,7 +270,16 @@ teFromDict = {
 }
 
 
+def showHelp():
+    print("'te' + dictionary form verb gives テ-from of verb")
+    print("")
+    print("POS    Present/Past     Long/Short    Affirmative/Negative")
+    print(" n        pr    pa        l    s           1          0 ")
+    print(" v")
+    print(" ad")
+    print("")
 
+showHelp()
 while 1:
     pos = None
     isPresent = None
@@ -279,6 +288,10 @@ while 1:
 
     cmd = input("> ")
     cmdarr = cmd.split(" ")
+
+    if cmdarr[0] == '?' or cmdarr[0] == "help":
+        showHelp()
+        continue
 
     if    'n' in cmdarr[0]:
         pos = 'noun'

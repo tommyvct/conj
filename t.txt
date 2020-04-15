@@ -1,3 +1,5 @@
+help
+
 nprl1 hagaki
 nprl0 hagaki
 nprs1 hagaki
